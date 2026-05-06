@@ -8,3 +8,4 @@ The app keeps record of your "clean days" and restarts the streak if you relapse
 The app stores the data locally on your browser cache, this means if you clear caches at some point, you will automatically clear your entries(if any) on the web app
 The App "Disciplin" does not collect or store any user data whether offline or online, all "entries" are saved on the device used to access the app.
 The app does not track user browsing behaviour nor does it enable site cookies, it's a totally privacy enabled web app.
+ 
